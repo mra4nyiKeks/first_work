@@ -10,3 +10,5 @@
 ```bash=
 git status
 ```
+Пример использования
+![status](./assets/status.png)

@@ -9,3 +9,6 @@
 ```bash=
 git add .
 ```
+
+Пример использования
+![add](./assets/add.png)

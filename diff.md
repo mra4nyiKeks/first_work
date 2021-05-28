@@ -11,3 +11,5 @@
 ```bash=
 git diff
 ```
+Пример использования
+![diff](./assets/dif.png)
