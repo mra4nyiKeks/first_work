@@ -5,7 +5,7 @@ License: [MIT](./license.md)
 ![git-logo](./assets/1920px-Git-logo.svg.png)
 
 ---
-
+Огромный привет тому, кто будет это проверять! 
 ### Содержание:
 1. [git status](./status.md)
 2. [git add](./add.md)
